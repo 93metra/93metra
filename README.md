@@ -4,7 +4,7 @@ I am a beginner Front End developer from Russia. I'm excited to start my journey
 
 ## 🛠 Currently, I'm working on two projects:
 - [1RM-Calculator](https://github.com/93metra/1RM-Calculator) (React, TS)
-- [public-api-explorer](https://github.com/93metra/public-api-explorer) (React, JS)
+- [public-api-explorer](https://github.com/93metra/public-api-explorer) (React, JS) **(In Migration to Next.js.)**
 
 ## ✉️ You can contact me at:
 - Mail: **voevodin320@gmail.com**
