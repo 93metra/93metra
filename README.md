@@ -1,8 +1,15 @@
-# Hi 👋 My name is Artem!
+# Yo👋, I’m Artem!
 
-I am a beginner Front End developer from Russia. I'm excited to start my journey in the world of coding and share my progress with you. As a newcomer to the industry, I'm eager to learn and explore new technologies, and I'm passionate about building innovative and user-friendly applications.
+Frontend dev based in Spain 🌴 (originally repping Russia). I’m all about crafting clean, modern, and fire web apps that not only look slick but also hit smooth UX vibes. My go-to stack? React, Next.js, JavaScript (ES6+), TypeScript, and CSS —basically, the tools to keep things snappy and sharp.
 
-## 🛠 Currently, I'm working on two projects:
+I’m also dabbling in backend basics rn, just leveling up my full-stack game 💻. Oh, and I’m kinda into crypto projects too—exploring decentralized apps and blockchain tech is def on my radar ✨.
+
+When I’m not grinding code, you’ll probs catch me geeking out over new frameworks, contributing to open-source, or sipping coffee ☕ while brainstorming my next big idea. Always down to collaborate or just vibe about tech, travel, or whatever’s good!
+
+Let’s link up and build something epic together! 🚀
+
+## 🛠 Few of my Pet Projects:
+
 - [1RM-Calculator](https://github.com/93metra/1RM-Calculator) (React, TS)
 - [public-api-explorer](https://github.com/93metra/public-api-explorer) (Next.js)
 
