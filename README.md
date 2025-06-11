@@ -1,12 +1,10 @@
-# Yo👋, I’m Artem!
+# Hey, I’m Artem!
 
-Frontend dev based in Spain 🌴 (originally repping Russia). I’m all about crafting clean, modern, and fire web apps that not only look slick but also hit smooth UX vibes. My go-to stack? React, Next.js, JavaScript (ES6+), TypeScript, and CSS —basically, the tools to keep things snappy and sharp.
+Frontend developer based in Spain. I work with React, Next.js, JavaScript (ES6+), TypeScript, and CSS — focused on modern UI and solid UX.
 
-I’m also dabbling in backend basics rn, just leveling up my full-stack game 💻. Oh, and I’m kinda into crypto projects too—exploring decentralized apps and blockchain tech is def on my radar ✨.
+Learning backend fundamentals and exploring decentralized apps and blockchain tech.
 
-When I’m not grinding code, you’ll probs catch me geeking out over new frameworks, contributing to open-source, or sipping coffee ☕ while brainstorming my next big idea. Always down to collaborate or just vibe about tech, travel, or whatever’s good!
-
-Let’s link up and build something epic together! 🚀
+I enjoy trying out new frameworks, contributing to open source, and building cool projects. Open to collaboration.
 
 ## 🛠 Few of my Pet Projects:
 
